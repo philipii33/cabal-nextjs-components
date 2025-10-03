@@ -1,0 +1,32 @@
+.pcCard {
+  max-width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #1a1a1f;
+  box-shadow: 0 4px 10px rgba(0, 255, 200, 0.2);
+  text-align: center;
+}
+
+.pcImg {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+.pcName {
+  margin: 15px 0 5px;
+  font-size: 1.5rem;
+  color: #00ffc8;
+}
+
+.pcAge {
+  margin: 5px 0;
+  color: #b0b0b0;
+}
+
+.pcDesc {
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: #e0e0e0;
+}

@@ -1,0 +1,11 @@
+.pcFooterWrap {
+  text-align: center;
+  padding: 20px;
+  border-top: 1px solid #2a2a2a;
+  margin-top: 40px;
+}
+
+.pcFooterText {
+  font-size: 0.9rem;
+  color: #808080;
+}
